@@ -1,2 +1,3 @@
 # mixtli
-Mixtli software for TEC Autonomous Mechatronics Grand Prix Competition
+
+TEC Mixtli software for TEC Autonomous Mechatronics Grand Prix Competition.
